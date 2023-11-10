@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Varela+Round&display=swap');
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+.top-header{
+    padding-top: 100px;
+}
+
+.top-header .encabezado{
+    background-color: blueviolet;
+}
+
+.top-header select{
+    width: 100%;
+    padding: 15px 60px 15px 30px;
+    font-size: 14px;
+    border-radius: 10px;
+}
+
+.wrapper img{
+    width: 100px;
+}
